@@ -1,3 +1,6 @@
 >create repositary
 >create a file in pc
 >configure the file as useual
+
+>recommit (it'll give some error)
+>then use git add .
