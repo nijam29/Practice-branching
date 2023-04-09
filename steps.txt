@@ -1,0 +1,3 @@
+>create repositary
+>create a file in pc
+>configure the file as useual
